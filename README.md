@@ -1,11 +1,6 @@
 
 #Introduction
-App360SDK provides easiest way to integrate user management and payment methods (including sms, phone card and e-banking) into your application.
-
-App360 SDK 's Integration Flow
-
-![App360 SDK 's Integration Flow](https://camo.githubusercontent.com/c1f062a8627f539dbb4d1668f712d1c675b17142/687474703a2f2f692e696d6775722e636f6d2f505864436d62332e706e67)
-
+App360ID SDK helps you build engaging social apps and get more installs
 
 #Getting started with Demo project
 
@@ -14,7 +9,7 @@ Firstly, clone or download this repository to your machine.
  - `git clone https://github.com/app360/app360id-wp-sdk.git`
  - or, download from https://github.com/app360/app360id-wp-sdk
 
->The App360SDK supports Windows Phone 8 and 8.1 silverlight project.
+>The App360IDSDK supports Windows Phone 8 and 8.1 silverlight project.
 
 #Add App360 SDK to your project
 There are two ways to add App360SDK to your project.
