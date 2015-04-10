@@ -76,7 +76,7 @@ void Login_OnLogin(UserInfo sender, LoginEventArgs args)
 ##Logout
 To logout user:
 
- ```Login.LogOut();```
+ `Login.LogOut();`
 
 #Release Notes
 
