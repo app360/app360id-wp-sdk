@@ -2,7 +2,7 @@
 
 <Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
   <DefaultLanguage xmlns="" code="en-US"/>
-  <App xmlns="" ProductID="{79ceaedc-1bda-4cd3-8080-f4ae01948dec}" Title="App360IDSDKSample" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="App360IDSDKSample author" Description="Sample description" Publisher="App360IDSDKSample" PublisherID="{c8d67928-0f7d-4506-8545-b0ece542c28f}">
+  <App xmlns="" ProductID="{1640105a-926d-47ad-97b2-257b2237b37f}" Title="App360IDSDKSample" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal"  Author="App360IDSDKSample author" Description="Sample description" Publisher="App360IDSDKSample" PublisherID="{85a44278-a7ef-43eb-a939-849706c9cc07}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_NETWORKING"/>
